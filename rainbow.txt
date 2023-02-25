@@ -1,7 +1,7 @@
-V
-I
-B
-G
-Y
-O
-R
+V - Violet
+I - Indigo
+B - Blue
+G - Green
+Y - Yellow
+O - Orange
+R - Red
