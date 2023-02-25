@@ -5,3 +5,5 @@ G - Green
 Y - Yellow
 O - Orange
 R - Red
+
+a song about rainbows c major
